@@ -1,0 +1,1 @@
+console.log("Página carregada! A animação de fundo está rodando via CSS.");
